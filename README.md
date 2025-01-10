@@ -1,1 +1,3 @@
-# dykstrasophia.github.io
+# blog
+
+a personal website.
