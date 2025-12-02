@@ -1,8 +1,8 @@
 h1 {
-    font-size: 2.2em;
+    font-size: 2.6em;
     margin-top: 1.5em;
     margin-bottom: -0.25em;
-    color: #343434;
+    color: #5e548e;
 }
 
 .header {
@@ -11,25 +11,26 @@ h1 {
 }
 
 body {
+    background-color: #f9f4f5;
+    font-size: 1.2em;
     margin: 0 auto;
     max-width: 40em;  
     line-height: 1.5;
     padding: 4em 1em;
-    font-family: 'Arial', sans-serif;
 }
 
 p {
     margin: 0;
     margin-bottom: 1.5em;
-    color: #6a6a6a;
+    color: #9f86c0;
 }
 
 a:link, a:visited {
     text-decoration: none;
-    color: #9b1dea;
+    color: #ce97d6;
 }
 
 a:hover {
     text-decoration: none;
-    color: #6d07ac;
+    color: #ba71c4;
 }
